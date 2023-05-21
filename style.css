@@ -28,7 +28,6 @@ aside{
     background-position: top right;
     background-repeat: no-repeat;
     background-size: auto 100%; 
-    margin-bottom: 60px; 
 }
 aside img:nth-child(2){
     width: 160px;
@@ -141,6 +140,7 @@ nav{
     aside{
         border: none;
         padding: 32px 12px;
+        margin-bottom: 60px;
     }
     nav{
         overflow-y: visible;
